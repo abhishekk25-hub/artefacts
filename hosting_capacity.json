@@ -48,5 +48,20 @@
     "hosting_capacity_mw": 1.7,
     "short_circuit_utilization_pct": 68.0,
     "existing_gen_mw": 0.88
+  },
+  "CLU-A": {
+    "hosting_capacity_mw": 3.0,
+    "short_circuit_utilization_pct": 60.0,
+    "existing_gen_mw": 0.3
+  },
+  "CLU-B": {
+    "hosting_capacity_mw": 2.5,
+    "short_circuit_utilization_pct": 58.0,
+    "existing_gen_mw": 0.25
+  },
+  "CLU-C": {
+    "hosting_capacity_mw": 3.6,
+    "short_circuit_utilization_pct": 62.0,
+    "existing_gen_mw": 0.4
   }
 }
